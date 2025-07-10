@@ -37,8 +37,8 @@ Este projeto implementa um sistema de monitoramento ambiental utilizando o micro
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/monitoramento-ambiental-rp2040.git
-   cd monitoramento-ambiental-rp2040
+   git clone https://github.com/Rafhael0069/amb_cont_aht10
+   cd amb_cont_aht10
    ```
 
 2. Configure o ambiente Pico SDK:
