@@ -1,4 +1,4 @@
-# README - Sistema de Monitoramento Ambiental com RP2040
+# Sistema de Monitoramento Ambiental com AHT10
 
 Este projeto implementa um sistema de monitoramento ambiental utilizando o microcontrolador RP2040 (Raspberry Pi Pico), sensor AHT10 para medição de temperatura e umidade, e um display OLED para visualização dos dados. O sistema inclui alertas visuais quando os valores medidos ultrapassam limites pré-definidos.
 
